@@ -1067,10 +1067,11 @@ a {
 }
 
 .home_text p{
-    text-decoration: underline;
+    text-decoration: none;
     color: #fff;
-    font-size: 10px;
-    font-weight: inherit;
+    font-size: 24px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
 }
 
 .img-lightbox .col-md-6 {
