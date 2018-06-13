@@ -1021,7 +1021,7 @@ a {
 
 .head-text h1 {
 	font-family: 'Roboto', sans-serif;
-	font-weight: lighter;
+	font-weight: lighter; font-size: 30px;
 }
 
 @media screen and (max-width: 600px){
